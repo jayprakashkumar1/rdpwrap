@@ -1,5 +1,18 @@
 # Additional offstes for the RDP Wrapper Library by Stas'M
 
+for more info : https://ehikioya.com/multiple-rdp-sessions-in-windows-rdp-wrapper-library/
+
+HOW TO DO ?
+
+Just find your windows version and accordingly add the contents given  
+in .txt file to the end of file   C:\Program Files\RDP Wrapper\rdpwrap.ini file and 
+make sure to add the new line at the end of the .ini file.
+restart the RDPconf.exe application downloaded from library of rdpwrap.
+
+This way enjoy now enjoy multiple RDP connections.
+
+
+
 
 ## Information:
 This repository contains more offsets for the RDP Wrapper Library, which aren't supported natively.
