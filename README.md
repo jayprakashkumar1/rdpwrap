@@ -1,6 +1,9 @@
 # Additional offstes for the RDP Wrapper Library by Stas'M
 
-for more info : https://ehikioya.com/multiple-rdp-sessions-in-windows-rdp-wrapper-library/
+### For windows 7: https://www.raymond.cc/blog/enable-remote-desktop-connection-in-windows-7-home-premium/
+
+
+### For windows 10,8,.. : https://ehikioya.com/multiple-rdp-sessions-in-windows-rdp-wrapper-library/
 
 HOW TO DO ?
 
